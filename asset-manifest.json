@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.abd91d48.css",
-    "main.js": "/static/js/main.fcd846e8.js",
+    "main.css": "/static/css/main.4d51b2bd.css",
+    "main.js": "/static/js/main.c66185b2.js",
+    "static/media/Alexander.png": "/static/media/Alexander.7a7a5b1e0a9b4bcd7353.png",
     "static/media/Runde_Form_Automatisierter_Unternehmensbericht.svg": "/static/media/Runde_Form_Automatisierter_Unternehmensbericht.23efc83348c339cd0a17e40db8a36daa.svg",
     "static/media/sea.jpg": "/static/media/sea.c8734d0032860e6e101f.jpg",
     "static/media/main.jpg": "/static/media/main.5d545a4e54beee0bfb88.jpg",
     "static/media/kunden.png": "/static/media/kunden.3359a7ace134df24bf59.png",
+    "static/media/Felix.png": "/static/media/Felix.83b07b8f4b3457092d70.png",
     "static/media/cloud.png": "/static/media/cloud.f03fc21ee0ffaa0795ca.png",
     "static/media/Sebastian.png": "/static/media/Sebastian.8653ad93839d3c9e4136.png",
     "static/media/logo.svg": "/static/media/logo.e21489a07f3fa90ea2d87f5bf6f96b75.svg",
     "static/media/linkedin.svg": "/static/media/linkedin.a4b599a8549fc6a33c4e76bbcf9c1b36.svg",
     "static/media/instagram.svg": "/static/media/instagram.b6948931ea1bf417e87ab6a5ec409583.svg",
     "index.html": "/index.html",
-    "main.abd91d48.css.map": "/static/css/main.abd91d48.css.map",
-    "main.fcd846e8.js.map": "/static/js/main.fcd846e8.js.map"
+    "main.4d51b2bd.css.map": "/static/css/main.4d51b2bd.css.map",
+    "main.c66185b2.js.map": "/static/js/main.c66185b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.abd91d48.css",
-    "static/js/main.fcd846e8.js"
+    "static/css/main.4d51b2bd.css",
+    "static/js/main.c66185b2.js"
   ]
 }
