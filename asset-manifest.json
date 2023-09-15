@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.7950d549.css",
+    "main.css": "/static/css/main.d83ca577.css",
     "main.js": "/static/js/main.d1b7f5a7.js",
     "static/media/Alexander.png": "/static/media/Alexander.7a7a5b1e0a9b4bcd7353.png",
     "static/media/Runde_Form_Automatisierter_Unternehmensbericht.svg": "/static/media/Runde_Form_Automatisierter_Unternehmensbericht.23efc83348c339cd0a17e40db8a36daa.svg",
@@ -14,11 +14,11 @@
     "static/media/linkedin.svg": "/static/media/linkedin.a4b599a8549fc6a33c4e76bbcf9c1b36.svg",
     "static/media/instagram.svg": "/static/media/instagram.b6948931ea1bf417e87ab6a5ec409583.svg",
     "index.html": "/index.html",
-    "main.7950d549.css.map": "/static/css/main.7950d549.css.map",
+    "main.d83ca577.css.map": "/static/css/main.d83ca577.css.map",
     "main.d1b7f5a7.js.map": "/static/js/main.d1b7f5a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.7950d549.css",
+    "static/css/main.d83ca577.css",
     "static/js/main.d1b7f5a7.js"
   ]
 }
